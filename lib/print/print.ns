@@ -1,0 +1,42 @@
+// OFICIAL CODE
+#cpu display 0x00001
+state(0xD)
+
+
+
+
+
+
+
+
+print = .display.print.lib()
+print() {
+display.print() {
+define Q 1
+define W 2
+define E 3
+define R 4
+define T 5
+define Y 6
+define U 7
+define I 8
+define O 9
+define P 10
+define A 11
+define S 12
+define D 13
+define F 14
+define G 15
+define H 16
+define J 17
+define K 18
+define L 19
+define Z 20
+define X 21
+define C 22
+define V 23
+define B 24
+define N 25
+define M 26
+}
+}
